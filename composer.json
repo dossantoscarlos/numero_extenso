@@ -1,0 +1,21 @@
+{
+    "name": "kdu/numero_extenso",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "app\\": "src/"
+        },
+        "files": [
+            "src/auxiliar/operacional.php",
+            "src/convert_value.php",
+            "src/main.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Carlos Eduardo",
+            "email": "anjoazrael10@gmail.com"
+        }
+    ],
+    "require": {}
+}
